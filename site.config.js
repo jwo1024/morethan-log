@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `pintogether`,
-      href: "",
+      href: "https://www.pintogether.co.kr/",
     },
   ],
   // blog setting (required)
