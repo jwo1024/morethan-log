@@ -18,8 +18,8 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "Jiwoo's blog",
+    description: "welcome to Jiwoo's blog!",
   },
 
   // CONFIG configration (required)
